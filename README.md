@@ -2,8 +2,6 @@
 
 ## Usage & Installation
 
-git clone 
-
 ```bash
 git clone https://github.com/0neBeerLeft/blooket.com-finder.git
 ```
